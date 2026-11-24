@@ -1,0 +1,6 @@
+{
+  "name": "NextGen Traffic AI",
+  "description": "Edge AI traffic analytics and live violation telemetry dashboard for NextGen Devs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
